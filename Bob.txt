@@ -2,3 +2,4 @@ Hi! I'm Bobby. I'm new here. Adding change.
 Bob changed again
 3
 fetching changes
+going to fetch again
